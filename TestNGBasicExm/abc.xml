@@ -1,0 +1,11 @@
+<suite name="abcSuite">
+
+	<test name="abcTest">
+
+		<classes>
+
+			<class name="packAA.AA" />
+			
+		</classes>
+	</test>
+</suite>
